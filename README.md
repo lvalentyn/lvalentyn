@@ -1,5 +1,4 @@
 # 👋 Hi there, I'm Valentyn! 
-##  [💼 Go to my portfolio!](https://lvalentyn.github.io/)  
 
 <!--- https://github.com/anuraghazra/github-readme-stats -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=lvalentyn&show_icons=true&theme=tokyonight">
